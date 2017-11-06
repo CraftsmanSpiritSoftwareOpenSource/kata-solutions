@@ -1,0 +1,17 @@
+[
+  {
+    "category":"CRISPS",
+    "id":"Crisps",
+    "price":0.8
+  },
+  {
+    "category":"DRINK",
+    "id":"Pop",
+    "price":1.8
+  },
+  {
+    "category":"FOOD",
+    "id":"Sandwich",
+    "price":1.9
+  }
+]

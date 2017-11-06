@@ -1,0 +1,12 @@
+[
+  {
+    "itemMatcher":{
+      "@type":"CategoryMatcher",
+      "category":"DRINK"
+    },
+    "pricingAction":{
+      "@type":"DiscountPercentAction",
+      "percentDiscount":10.0
+    }
+  }
+]
